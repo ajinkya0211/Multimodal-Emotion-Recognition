@@ -45,16 +45,13 @@ Results:
 
 ### 2. UnimodalClassifier.ipynb
 
-Description:
-- [Add the description of the notebook here]
+![image](https://user-images.githubusercontent.com/89626355/235414481-9f1b581c-703d-4adf-ac26-76c8cfea8fcc.png)
 
-Results:
-- [Add the results of the notebook here]
 
 ### 3. MMClassifier.ipynb
 
-Description:
-- [Add the description of the notebook here]
+![image](https://user-images.githubusercontent.com/89626355/235414678-0bac7708-0b57-4823-a395-a562ec9056b1.png)
+
 
 ##Results:
 
@@ -76,6 +73,9 @@ Description:
 | Avg. Pool | 1.0815 | 54.98% | 54.45% | 37.38% | 49.38% | 63.00% | 68.02% |
 | Attention Weighted Pooling| 0.959 | 60.05% | 60.89% | 61.21% | 46.88% | 65.42% | 70.05% | 
 
+![image](https://user-images.githubusercontent.com/89626355/235414745-eb5707ec-eb10-49b1-b6f3-cb1da133629c.png)
+
+
 ### **Results for Lexical Only:**
 **Train Results:**
 
@@ -94,7 +94,12 @@ Description:
 | CLS Block | 0.9369 | 63.13% | 63.18% | 62.62% | 65.00% | 61.66% | 63.45% |
 | Avg. Pool| 1.0551 | 62.68% | 60.56% | 52.34% | 70.31% | 67.83% | 51.78% |
 | Attention Weighted Pooling| 0.9641 | 63.13% | 64.83% | 73.36% | 55.62% | 59.79% | 70.56% |
+
 ### MM-B (Baseline Multimodal) Results
+
+![image](https://user-images.githubusercontent.com/89626355/235414998-7054485b-781f-4756-8a73-4d9fa33c4011.png)
+
+
 **Train Performance**
 
 | Avg Loss | Weighted Accuracy | Unweighted Accuracy | Anger Acc. | Happy/Excited Acc. | Neutral Acc. | Sad Acc. |
@@ -110,6 +115,10 @@ Description:
 
 ### MMMLA (multimodal multi level attention) Model Results
 
+
+![image](https://user-images.githubusercontent.com/89626355/235414897-84da4e6a-b7f9-47f9-a7d8-38c4d70b2345.png)
+
+
 **Train Performance**
 
 | Avg Loss | Weighted  Accuracy | Unweighted  Accuracy | Angry Acc. | Happy/Excited Acc. | Neutral Acc. | Sad Acc. |
@@ -124,19 +133,15 @@ Description:
 
 ### 4. Analysis.ipynb
 
-Description:
-- [Add the description of the notebook here]
+![image](https://user-images.githubusercontent.com/89626355/235415178-1e8c6e7d-1efa-4f60-be8d-2d8cff733398.png)
+![image](https://user-images.githubusercontent.com/89626355/235415212-dbfa9314-d195-4950-b84c-3f40cdf3851d.png)
 
-Results:
-- [Add the results of the notebook here]
 
 ### 5. Demo.ipynb
 
-Description:
-- [Add the description of the notebook here]
+![image](https://user-images.githubusercontent.com/89626355/235415247-c0d7d2c1-cafe-46ae-8f87-e360b0a61a5f.png)
+![image](https://user-images.githubusercontent.com/89626355/235415282-cd13996d-0641-4e50-9bd6-8c7658d2ff72.png)
 
-Results:
-- [Add the results of the notebook here]
 
 ## License
 
